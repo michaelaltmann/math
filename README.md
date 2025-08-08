@@ -1,2 +1,2 @@
 Website for online demonstrations of math
-* [long_division.html](Long Division)
+* [Long Division](long_division.html)
